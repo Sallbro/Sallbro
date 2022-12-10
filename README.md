@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asu Salman Arif</h1>
-<h3 align="center">A passionate Software Engineering from India</h3>
+<h3 align="center">I am from India.A passionate Software Engineering</h3>
 <img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" alt="sallbro" width="1000" /> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sallbro&label=Profile%20views&color=0e75b6&style=flat" alt="sallbro" /> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **blockchain**
 
-- 🌱 I’m currently learning **slidity**
+- 🌱 I’m currently learning **solidity**
 
 - 📝 I regularly write articles on [https://bloggy-vloggy.vercel.app/](https://bloggy-vloggy.vercel.app/)
 
