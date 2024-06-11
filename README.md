@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **solidity**
 
-- 📝 I regularly write articles on [https://bloggy-vloggy.vercel.app/](https://bloggy-vloggy.vercel.app/)
+- 📝 I regularly write articles on [https://medium.com/@sallbro)
 
 - 💬 Ask me about **react,nextjs,javascript**
 
