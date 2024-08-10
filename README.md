@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **blockchain**
+- 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **solidity**
+- 🌱 I’m currently learning **AWS**
 
 - 📝 I regularly write articles on [https://medium.com/@sallbro)
 
-- 💬 Ask me about **react,nextjs,javascript**
+- 💬 Ask me about **nodejs,expressjs,nestjs,react,nextjs,javascript,typescript**
 
 - 📫 How to reach me **asusalman986@gmail.com**
 
