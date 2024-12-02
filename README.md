@@ -24,13 +24,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/salman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="salman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19312904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19312904" height="30" width="40" /></a>
-<a href="https://fb.com/salman asu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="salman asu" height="30" width="40" /></a>
-<a href="https://instagram.com/salmanasu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="salmanasu1" height="30" width="40" /></a>
-<a href="https://medium.com/@asusalman986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asusalman986" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/short zilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="short zilla" height="30" width="40" /></a>
+<!--   linked-in  -->
+<a href="https://www.linkedin.com/in/salman-asu-36820a230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="salman" height="30" width="40" /></a>
+<!--  leetcode -->
+<a href="https://stackoverflow.com/users/19312904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="19312904" height="30" width="40" /></a>
+<!--   dev community -->
+<a href="https://stackoverflow.com/users/19312904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="19312904" height="30" width="40" /></a>
+<!--   geeksforgeeks -->
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/asusalman986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/asusalman986" height="30" width="40" /></a>
+<!-- stackoverflow -->
+<a href="https://stackoverflow.com/users/19312904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19312904" height="30" width="40" /></a>
+<!-- codepen  -->
+<a href="https://codepen.io/salman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="salman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
