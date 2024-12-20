@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📝 I regularly write articles on [https://medium.com/@sallbro)
+- 📝 I regularly write articles on [https://dev.to/sallbro)
 
 - 💬 Ask me about **nodejs,expressjs,nestjs,react,nextjs,javascript,typescript**
 
